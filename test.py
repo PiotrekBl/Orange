@@ -1,6 +1,6 @@
 from array import array
 
-my_array = array('i', [10,20,30,40,50])
+my_array = array('i', [10,20,30,40,50,60,70])
 
 for i in my_array:
     print(i)
